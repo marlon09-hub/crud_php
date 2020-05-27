@@ -1,0 +1,24 @@
+.manageMember{
+    width: 50%;
+    margin: auto;
+}
+
+table {
+    width: 100%;
+    margin-top: 20px;
+}
+
+
+
+
+/* Edit Style */
+
+fieldset {
+    margin: auto;
+    margin-top: 100px;
+    width: 50%;
+}
+
+table tr th {
+    padding-top: 20px;
+}
